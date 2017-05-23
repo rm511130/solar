@@ -1,6 +1,6 @@
-# solar
-Solar System Simulation
-Simple JavaScript
-Easy to push to Cloud Foundry 
+3D CSS Solar System 
+===================
 
-command:  cf push
+Solar System data visualisation done in HTML/CSS and a bit of Javascript.
+
+See it in action : http://codepen.io/juliangarnier/full/idhuG
