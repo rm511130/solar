@@ -1,6 +1,7 @@
 ---
 applications:
 - name: solar
+  host: solar-${random-word}
   memory: 512M
   instances: 1
   maximum_app_disk_in_mb: 3096
