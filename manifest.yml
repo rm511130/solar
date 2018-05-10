@@ -1,8 +1,3 @@
----
-applications:
-- name: solar
-  host: solar-${random-word}
-  memory: 512M
-  instances: 1
-  maximum_app_disk_in_mb: 3096
-  timeout: 60
+name: solar
+random-route: true
+memory: 512M
